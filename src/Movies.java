@@ -11,7 +11,7 @@
  */
 public class Movies {
    private String title="hi";
-    
+    int x=0;
    public Movies(){}
    
     public void addTitle(String input){
